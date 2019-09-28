@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a3b6f9-abe9-4088-99ad-8571519753fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array2DAssignment01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Matrix_Mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/MockB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Mul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Selectionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Preparation_for_ICPC/Test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Prob6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Prob6" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
