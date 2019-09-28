@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a3b6f9-abe9-4088-99ad-8571519753fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Prob12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prob14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prob6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prob6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prob8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prob9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2DAssignment01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Matrix_Mul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/MockB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Mul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Selectionsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Preparation_for_ICPC/Test01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Prob6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prob6" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -49,10 +52,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prob6">
-    <configuration name="Prob12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prob12" />
+  <component name="RunManager" selected="Application.Mul">
+    <configuration name="Array2DAssignment01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2DAssignment01" />
       <module name="Star Lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.MockB" />
+      <module name="Star Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mul" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Mul" />
+      <module name="Star Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -64,18 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prob8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prob8" />
+    <configuration name="Selectionsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Selectionsort" />
       <module name="Star Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mul" />
+        <item itemvalue="Application.MockB" />
+        <item itemvalue="Application.Selectionsort" />
+        <item itemvalue="Application.Array2DAssignment01" />
         <item itemvalue="Application.Prob6" />
-        <item itemvalue="Application.Prob12" />
-        <item itemvalue="Application.Prob8" />
       </list>
     </recent_temporary>
   </component>
