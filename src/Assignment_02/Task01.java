@@ -10,7 +10,7 @@ package Assignment_02;
             int y = 4;
             double z = 1.5;
             Add aa= new Add();
-            Sub su= new Sub();
+            Sub su= new Sub();   //The README file says, you cannot make changes to the main(). Your OOP is appreciated!:) 
             Multiply mul= new Multiply();
             Worker01 w = new Worker01();
 
