@@ -6,14 +6,12 @@ class msg{
 public class Test2{
     public int sum;
     public int y;
-
     public static void main(String[] args) {
             Test2 obj= new Test2();
             obj.methodA();
             obj.methodA();
         }
     public void methodA(){
-
         int x=0, y =0;
         msg mg = new msg();
         mg.content = 5;

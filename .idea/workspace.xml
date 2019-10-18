@@ -2,43 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a3b6f9-abe9-4088-99ad-8571519753fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/AccountTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/StudentT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_03/TestTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/GetsetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/GetterSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Testsalehin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Assignment01Task410.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Lab04T10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/MIdques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Palndrm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/tessst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Add_Subtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Add_Subtract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Mul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Mul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Multiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_01/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_01/Sub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Multiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Sub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Task01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Task01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Task02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Task02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Task03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Task03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Task01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Worker01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Worker01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Practice/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Practice/Test2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignment_02/Worker01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Worker01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_02/Worker02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Worker02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootcamp_replay/ProbC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp_replay/ProbC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootcamp_replay/ProbD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp_replay/ProbD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootcamp_replay/ProbF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp_replay/ProbF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootcamp_replay/ProbH.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp_replay/ProbH.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootcamp_replay/ProbI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp_replay/ProbI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bootcamp_replay/ProbJ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bootcamp_replay/ProbJ.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/AddingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/AddingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/ClassTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/ClassTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/Help.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/Help.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/Print.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_Practice/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_Practice/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab2/Lab02Task09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab2/Lab02Task09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/AllCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/AllCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Lab03Task04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Lab03Task04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Multiplication_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Multiplication_Matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Practice/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Testing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Testing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Transpose.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Transpose.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,9 +65,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/untitled3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSE111lab/9.10.19/Student.java" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Assignment_03" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Assignment_03" />
+      <recent name="Test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -82,13 +90,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task03">
-    <configuration name="Add_Subtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_01.Add_Subtract" />
+  <component name="RunManager" selected="Application.TestTeacher">
+    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.CatTest" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_01.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_01.Multiplication" />
+    <configuration name="MIdques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.MIdques" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_01.*" />
+          <option name="PATTERN" value="Test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_02.Task01" />
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_03.Quiz" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_02.*" />
+          <option name="PATTERN" value="Assignment_03.Student" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_02.Task02" />
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_03.StudentTest" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_02.*" />
+          <option name="PATTERN" value="Assignment_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_02.Task03" />
+    <configuration name="TestTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_03.TestTeacher" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_02.*" />
+          <option name="PATTERN" value="Assignment_03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task03" />
-        <item itemvalue="Application.Task02" />
-        <item itemvalue="Application.Task01" />
-        <item itemvalue="Application.Multiplication" />
-        <item itemvalue="Application.Add_Subtract" />
+        <item itemvalue="Application.TestTeacher" />
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.Quiz" />
+        <item itemvalue="Application.CatTest" />
+        <item itemvalue="Application.MIdques" />
       </list>
     </recent_temporary>
   </component>
