@@ -3,30 +3,30 @@ package Test;
 public class Car {
     public String carmaker;
     public String carmodel;
-    String count;
+//    String count;
     public Car(String carmaker,String carmodel){
         this.carmaker=carmaker;
         this.carmodel=carmodel;
-        count="z";
+//        count="z";
     }
     public Car(String carmaker){
         this.carmaker=carmaker;
-        count="y";
+//        count="y";
     }
     public Car(){
-        count="x";
+//        count="x";
     }
 //    public boolean equals(Object obj){
 //        return true;
 //    }
     public void start() {
-        if(count=="x"){
+        if(carmaker==null){
             System.out.println("Car is Starting");
         }
-        if(count=="y"){
+        if(carmaker!=null && carmodel==null){
             System.out.println("Car make "+ carmaker + " is strating");
         }
-        if(count=="z"){
+        if(carmaker!=null && carmodel!=null){
             System.out.println("Car make"+ carmaker +", model:"+carmodel+ " is strating");
         }
     }

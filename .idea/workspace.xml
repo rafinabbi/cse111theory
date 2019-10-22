@@ -2,42 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a3b6f9-abe9-4088-99ad-8571519753fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/AccountTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/StudentT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignment_03/TestTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/GetsetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/GetterSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Testsalehin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Assignment01Task410.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Lab04T10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/MIdques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Palndrm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/Test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test/tessst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_04/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_04/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_04/Task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_04/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/Midterm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Habizabi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/object.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Task01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Task01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Worker01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Assignment_02/Worker01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Practice/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Practice/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Assignment_03/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Assignment_03/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Test/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Star Lab/Test/Car.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assignment_02/Worker01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_02/Worker01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Practice/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Car.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +50,9 @@
       <recent name="Assignment_03" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="Assignment_03" />
+      <recent name="Assignment_04" />
       <recent name="Test" />
+      <recent name="Assignment_03" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -90,9 +67,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestTeacher">
-    <configuration name="CatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.CatTest" />
+  <component name="RunManager" selected="Application.Habizabi">
+    <configuration name="Habizabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Habizabi" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_03.Quiz" />
+    <configuration name="Midterm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Midterm" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_03.Student" />
+          <option name="PATTERN" value="Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Habizabi" />
+        <item itemvalue="Application.Midterm" />
+        <item itemvalue="Application.MIdques" />
         <item itemvalue="Application.TestTeacher" />
         <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.Quiz" />
-        <item itemvalue="Application.CatTest" />
-        <item itemvalue="Application.MIdques" />
       </list>
     </recent_temporary>
   </component>
