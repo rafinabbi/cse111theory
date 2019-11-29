@@ -2,11 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a3b6f9-abe9-4088-99ad-8571519753fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Assignment_04/SizePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_06/Anime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_06/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_06/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_06/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignment_06/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Batch8w1/K.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Batch8w1/L.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/BBAStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/CSE111Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/CSEStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Maint3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Studentt9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/TestStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/TestStudentt9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Vehicle2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/Vehicle2010User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_8/VehicleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Online_Judge/Primefactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Online_Judge/cccffA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Online_Judge/divisoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Online_Judge/replacel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Preparation_for_Final/Happy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Preparation_for_Final/Happy_unhappy_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Alfie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Azaira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/Tester1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_04/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_04/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_04/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_04/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment_04/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_04/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Star Lab/Preparation_for_ICPC/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_05/MyString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_05/MyString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assignment_05/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment_05/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Online_Judge/CF1252_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Online_Judge/CF1252_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Online_Judge/H26_10_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Online_Judge/H26_10_19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Jackfruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Jackfruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Mango.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Mango.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Mid12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/Mid12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Preparation_for_ICPC/Test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Preparation_for_Final/Test01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Midjanina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Midjanina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Trace04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Trace04.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +75,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../CSE111lab/9.10.19/Student.java" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -43,6 +85,8 @@
       <recent name="Assignment_03" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lab_8" />
+      <recent name="Practice" />
       <recent name="Assignment_04" />
       <recent name="Test" />
       <recent name="Assignment_03" />
@@ -60,13 +104,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task01">
-    <configuration name="Habizabi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.Habizabi" />
+  <component name="RunManager" selected="Application.Driver">
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignment_06.Driver" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Assignment_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MIdques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test.MIdques" />
+    <configuration name="Happy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Preparation_for_Final.Happy" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Test.*" />
+          <option name="PATTERN" value="Preparation_for_Final.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Midterm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Midterm" />
+    <configuration name="cccffA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Online_Judge.cccffA" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Online_Judge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_04.Task01" />
+    <configuration name="divisoor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Online_Judge.divisoor" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_04.*" />
+          <option name="PATTERN" value="Online_Judge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment_03.TestTeacher" />
+    <configuration name="replacel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Online_Judge.replacel" />
       <module name="Star Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignment_03.*" />
+          <option name="PATTERN" value="Online_Judge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task01" />
-        <item itemvalue="Application.Habizabi" />
-        <item itemvalue="Application.Midterm" />
-        <item itemvalue="Application.MIdques" />
-        <item itemvalue="Application.TestTeacher" />
+        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.cccffA" />
+        <item itemvalue="Application.Happy" />
+        <item itemvalue="Application.divisoor" />
+        <item itemvalue="Application.replacel" />
       </list>
     </recent_temporary>
   </component>
@@ -161,5 +205,36 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Azaira.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Azaira.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Azaira.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Azaira.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Test/Azaira.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
