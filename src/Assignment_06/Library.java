@@ -83,4 +83,13 @@ Scanner s= new Scanner(System.in);
 
         }
     }
+
+    public String deleteobject() {
+//        this.etaki=null;
+//        this.name=null;
+//        this.progress=null;
+//        this.rating=null;
+//        this.favchar=null;
+        return null;
+    }
 }

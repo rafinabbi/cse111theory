@@ -14,20 +14,25 @@ public class Driver {
         Movie l2 = new Movie();
 //        System.out.println(l.toString());
 
-        arr[0]=l;
-        arr[1]=l1;
-        arr[2]=l2;
-        l.replace("name");
-        l.print();
-        l1.print();
-        l2.print();
-        l1.replace("rating");
-        l.print();
-        l1.print();
-        l2.print();
+
+//        arr[1]=l1;
+//        arr[2]=l2;
+
+//        l.replace("name");
+//        l.print();
+//        l1.print();
+//        l2.print();
+//        l1.replace("rating");
+//        l.print();
+//        l1.print();
+//        l2.print();
         System.out.println("which variable do you want to delete");
-        l.delete("name");
-        l.print();
+        arr[0]=l;
+        //l.delete("name");
+        l.deleteobject();
+        System.out.println(l);
+        System.out.println(arr[0]);
+//        l.print();
         //l = new Anime();
         //l.name=s.nextLine();
        //System.out.println(arr[0]);
